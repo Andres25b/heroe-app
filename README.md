@@ -20,4 +20,13 @@
 ### Librerias utilizadas:
  1. Reactrouter
  2. Bootstrap  
- 3. QueryString  
+ 3. QueryString 
+
+---
+### Resultado Final:
+
+![HeroListScreen](https://raw.githubusercontent.com/Andres25b/heroe-app/master/src/theme/HeroListScreen.png)
+
+![HeroScreen.png](https://raw.githubusercontent.com/Andres25b/heroe-app/master/src/theme/HeroScreen.png)
+
+![SearchScreen](https://raw.githubusercontent.com/Andres25b/heroe-app/master/src/theme/SearchScreen.png)
