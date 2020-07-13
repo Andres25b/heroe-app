@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 992px) {
+    .card .card-body {
+        padding: 15px !important;
+    }
+
+    .card h5 {
+        font-size: 13px;
+    }
+    
+    .card p, .card .enlace {
+        font-size: 10px;
+    }    
+}
+
+
